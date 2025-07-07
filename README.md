@@ -1,2 +1,2 @@
-# VS-code
+# VS-code (aluraflix)
 aula do bruno sobre html
